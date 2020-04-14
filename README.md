@@ -7,6 +7,6 @@
 注意：请不要重命名文件  
 
 文本资源提取：zyjking  
-翻译项目创建：zyjking，ff98sha  
+翻译项目创建：zyjking，ff98sha，WDLJT  
 翻译/校对：zyjking，最亮的信标（Light_beacon），广药，SPGoding，FtyLollipop  
 文件打包：zyjking
