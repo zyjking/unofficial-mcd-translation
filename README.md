@@ -16,4 +16,6 @@ https://www.mcbbs.net/thread-1018057-1-1.html
 文本提取 ：zyjking  
 项目创建 ：zyjking，ff98sha，WDLJT  
 翻译/校对：zyjking，最亮的信标（Light_beacon），广药，SPGoding，FtyLollipop，dianliang，尘信平，Miemiemethod  
-打包/发布：zyjking
+打包/发布：zyjking  
+
+本项目采用知识共享署名 4.0 国际许可协议（CC BY 4.0）进行许可。
