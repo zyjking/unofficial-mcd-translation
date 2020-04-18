@@ -15,7 +15,9 @@ https://www.mcbbs.net/thread-1018057-1-1.html
 
 文本提取 ：zyjking  
 项目创建 ：zyjking，ff98sha，WDLJT  
-翻译/校对：MCD Wiki Project（MCDWiki）  
+翻译/校对：中文MCD Wiki Project（MCDWiki）全体成员  
 打包/发布：zyjking  
 
-本项目采用知识共享署名 4.0 国际许可协议（CC BY 4.0）进行许可。
+本项目采用知识共享署名 4.0 国际许可协议（CC BY 4.0）进行许可。  
+
+注意：语言包仅供尝鲜，学习，交流，个人研究使用，不得用于商业用途，请于下载后24小时内删除，造成的直接或间接后果本人及其团队不负任何责任！！！
