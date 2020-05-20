@@ -1,4 +1,4 @@
-# unoffical-mcd-translate
+# unoffical-mcd-translate(en-US ➡ zh-Hans)
 这是Minecraft Dungeons非官方中文语言包的存档项目，仅用于存档，不接受任何issue或pull requests。  
 本项目采用知识共享署名 4.0 国际许可协议（CC BY 4.0）进行许可。  
 
