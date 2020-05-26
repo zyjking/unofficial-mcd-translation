@@ -2,7 +2,7 @@
 这是Minecraft Dungeons非官方中文语言包的存档项目，仅用于存档，不接受任何issue或pull requests。  
 本项目采用知识共享署名 4.0 国际许可协议（CC BY 4.0）进行许可。  
 
-游戏于5月26日发售，最慢于5月31日前释出首个汉化包
+5月26日 18：00释出首版汉化包
 
 注意：此语言包基于英语制作，会覆盖语言选项内的英语，卸载语言包即可恢复！  
 
@@ -11,6 +11,10 @@
 进入 \products\dungeons\dungeons\Dungeons\Content\Paks ，将Pak文件直接复制到此处即可  
 卸载：删除Pak文件即可  
 注意：请不要重命名文件  
+
+**下载地址：**  
+蓝奏云：暂无（待汉化包发布）  
+备用：GitHub的release
 
 **遇到问题/漏翻/对文本质量不满意？**  
 https://www.mcbbs.net/thread-1018057-1-1.html  
