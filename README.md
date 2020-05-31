@@ -1,6 +1,6 @@
 # unoffical-mcd-translate(en-US → zh-Hans)
 这是Minecraft Dungeons非官方中文语言包的存档项目，仅用于存档，不接受任何issue或pull requests。  
-本项目采用知识共享署名 4.0 国际许可协议（CC BY 4.0）进行许可。  
+本项目采用署名-非商业性使用-禁止演绎 4.0 国际许可协议（CC BY-NC-ND 4.0）进行许可。  
 
 注意：此语言包基于英语制作，会覆盖语言选项内的英语，卸载语言包即可恢复！  
 
@@ -48,5 +48,5 @@ https://www.mcbbs.net/thread-1018057-1-1.html
 翻译/校对：中文MCD Wiki Project（MCDWiki）全体成员  
 打包/发布：zyjking  
 
-注意：语言包仅供尝鲜，学习，交流，研究使用，任何人或组织不得用于商业或非法用途，请于下载后24小时内删除，产生的任何纠纷本人及其团队成员不负任何责任！！！  
+关于其它的汉化包详细声明，请查看压缩包内的readme文件。
 
