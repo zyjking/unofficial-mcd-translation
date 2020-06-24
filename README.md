@@ -1,6 +1,6 @@
 # unoffical-mcd-translate(en-US → zh-Hans)
 这是Minecraft Dungeons非官方中文语言包的存档项目，仅用于存档，不接受任何issue或pull requests。  
-本项目采用署名-非商业性使用-禁止演绎 4.0 国际许可协议（CC BY-NC-ND 4.0）进行许可。  
+本项目采用署名-非商业性使用 4.0 国际 许可协议（CC BY-NC 4.0）进行许可。  
 
 注意：此语言包基于英语制作，会覆盖语言选项内的英语，卸载语言包即可恢复！  
 
