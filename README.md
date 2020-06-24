@@ -10,7 +10,7 @@
 首选：蓝奏云：https://lanzous.com/b0bwh52qj  密码:327n  
 备用：GitHub的Release  
 
-繁体中文请按此（不受ND影响）：https://forum.gamer.com.tw/Co.php?bsn=18673&sn=950359  
+繁体中文请按此：https://forum.gamer.com.tw/Co.php?bsn=18673&sn=950359  
 
 **遇到问题/漏翻/对文本质量不满意？**  
 https://www.mcbbs.net/thread-1018057-1-1.html  
