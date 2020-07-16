@@ -17,7 +17,7 @@ https://www.mcbbs.net/thread-1018057-1-1.html
 直接跟帖回复即可，我会视情况回应
   
 汉化发起 ：Zyjking，Ff98sha，WDLJT  
-翻译/校对：Akasha，Cuervo Carlos（a20001017），Degh_Cilon_（dwch），Dianliang233，Ff98sha，FtyLollipop（节操脆脆酥），HoverCHN（尘信平），Lakejason0，Lxazl5770（斯乌），LightBeacon（最亮的信标），Method（方法放寒假），Qsefthuopq，SpGoding，Xuan_su（玄素），WuGuangYao（广药），Zyjking  
+翻译/校对：Akasha，Cuervo Carlos（a20001017），Degh_Cilon_（dwch），Dianliang233（电量量），Ff98sha，FtyLollipop（节操脆脆酥），HoverCHN（尘信平），Lakejason0（Lake桑），Lxazl5770（斯乌），LightBeacon（最亮的信标），Method（方法放寒假），Qsefthuopq，SPGoding，Xuan_su（玄素），WuGuangYao（广药），Zyjking  
 打包/发布：Zyjking  
 
 关于其它的汉化包详细声明，请查看压缩包内的readme文件。
