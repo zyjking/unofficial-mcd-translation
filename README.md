@@ -12,9 +12,8 @@
 
 繁体中文请按此：https://forum.gamer.com.tw/Co.php?bsn=18673&sn=950359  
 
-**遇到问题/漏翻/对文本质量不满意？**  
+**遇到问题/漏翻/对文本质量不满意？请前往此链接进行反馈**  
 https://www.mcbbs.net/thread-1018057-1-1.html  
-直接跟帖回复即可，我会视情况回应
   
 汉化发起 ：Zyjking，Ff98sha，WDLJT  
 翻译/校对：Akasha，Cuervo Carlos（a20001017），Degh_Cilon_（dwch），Dianliang233（电量量），Ff98sha，FtyLollipop（节操脆脆酥），HoverCHN（尘信平），Lakejason0（Lake桑），Lxazl5770（斯乌），LightBeacon（最亮的信标），Method（方法放寒假），Qsefthuopq，SPGoding，Xuan_su（玄素），WuGuangYao（广药），Zyjking  
