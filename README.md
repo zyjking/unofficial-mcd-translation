@@ -1,16 +1,12 @@
 # unoffical-mcd-translate(en-US → zh-Hans)
-这是Minecraft Dungeons简体中文翻译修正包的存档项目，仅用于存档，不接受任何issue或pull requests。  
+这是Minecraft Dungeons简体中文翻译修正包（原民间汉化包）的GitHub项目，仅用作备用下载地址，不接受任何issue或pull requests。  
 本项目采用署名-非商业性使用 4.0 国际 许可协议（CC BY-NC-SA 4.0）进行许可。  
-
-注意：请将游戏内语言切换至默认的 English (United states) 后再安装汉化包。  
-
-关于启动器版/Win10版的详细安装方法，请去MCBBS原贴查看。  
 
 **下载地址：**  
 首选：蓝奏云：https://lanzous.com/b0bwh52qj  密码:327n  
 备用：GitHub的Release  
 
-繁体中文请按此：https://forum.gamer.com.tw/Co.php?bsn=18673&sn=950359  
+繁体中文请按此：https://forum.gamer.com.tw/Co.php?bsn=18673&sn=950359 （已停止更新）  
 
 **遇到问题/漏翻/对文本质量不满意？请前往此链接进行反馈**  
 https://www.mcbbs.net/thread-1018057-1-1.html  
