@@ -1079,8 +1079,6 @@ key,source,translation
 "ButtonLabels/game_startgame","Start Game","     开始游戏     "
 "ButtonLabels/button_SwitchHero","Switch Hero","选择英雄"
 "ButtonLabels/button_ToggleAll","Toggle All","全部切换"
-"ButtonLabels/button_undo","Undo","撤销"
-"ButtonLabels/button_unequip","Unequip","卸下"
 "ButtonLabels/button_unlink","Unlink","解除绑定"
 "ButtonLabels/button_upgrade","Upgrade","强化"
 "ButtonLabels/button_Yes","Yes","是"
