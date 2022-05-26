@@ -8,7 +8,7 @@
 
 繁体中文请按此: https://forum.gamer.com.tw/Co.php?bsn=18673&sn=950359 （已停止更新）  
 
-**遇到问题/漏翻/对文本质量不满意？请前往论坛直接回帖进行反馈**  
+**遇到问题/漏翻/对文本质量不满意？请附上所属平台和游戏版本号前往论坛直接回帖进行反馈**  
 https://www.mcbbs.net/thread-1018057-1-1.html  
   
 汉化发起: Zyjking，Ff98sha，WDLJT  
