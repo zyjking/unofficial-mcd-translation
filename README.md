@@ -1,4 +1,4 @@
-# MCD Translation Peoject (Unofficial) ( en-US → zh-Hans)
+# MCD Translation Project (Unofficial) ( en-US → zh-Hans)
 这是Minecraft Dungeons简体中文翻译修正包（原民间汉化包）的GitHub项目，仅用作备用下载地址，不接受任何issue或pull requests。  
 本项目采用署名-非商业性使用 4.0 国际 许可协议（CC BY-NC-SA 4.0）进行许可。  
 
