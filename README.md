@@ -14,7 +14,7 @@ Triditional Chinese Project: https://forum.gamer.com.tw/Co.php?bsn=18673&sn=9503
 https://www.mcbbs.net/thread-1018057-1-1.html  
 
 
-Credit:  
+**Credits:**  
 
 Initiators: Zyjking，Ff98sha，WDLJT  
 
