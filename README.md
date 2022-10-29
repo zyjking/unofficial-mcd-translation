@@ -10,7 +10,7 @@ https://github.com/zyjking/unofficial-mcd-translation/releases
 
 Triditional Chinese Project: https://forum.gamer.com.tw/Co.php?bsn=18673&sn=950359 (Deprecated)  
 
-**You can go to the forums to submit feedback**  
+**You can go to the forums to submit feedback:**  
 https://www.mcbbs.net/thread-1018057-1-1.html  
 
 
