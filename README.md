@@ -12,7 +12,7 @@ Because the final version of the game (1.17.0.0) has been released, the final ve
 
 
 **Download：**  
-https://lanzous.com/b0bwh52qj  Passphrase: 327n  
+[https://lanzous.com/b0bwh52qj](https://wwp.lanzoue.com/b0bwh52qj)  Passphrase: 327n  
 https://github.com/zyjking/unofficial-mcd-translation/releases  
 
 Traditional Chinese Project: https://forum.gamer.com.tw/Co.php?bsn=18673&sn=950359 (Deprecated)  
