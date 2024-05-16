@@ -1,6 +1,14 @@
-# Unofficial Minecraft Dungeons Translation Project (en-US to zh-Hans)
+# Unofficial Minecraft Dungeons Translation Project
 
-The project is licensed under the CC BY-NC-SA 4.0 License.  
+The project adopts the CC BY-NC-SA 4.0 License.  
+
+[中文请看这里 For Chinese please see here.](https://github.com/zyjking/unofficial-mcd-translation/wiki)
+
+
+**About the translation：**  
+When the game does not add Chinese, it breaks the language barrier for mainland Chinese players.
+
+Because the final version of the game (1.17.0.0) has been released, the final version of the translation has also been released. Its mission has been completed and is inactive.
 
 
 **Download：**  
