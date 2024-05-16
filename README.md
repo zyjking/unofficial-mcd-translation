@@ -2,7 +2,7 @@
 
 The project adopts the CC BY-NC-SA 4.0 License.  
 
-[中文请看这里 For Chinese please see here.](https://github.com/zyjking/unofficial-mcd-translation/wiki)
+[中文请看这里 For Chinese please read here.](https://github.com/zyjking/unofficial-mcd-translation/wiki)
 
 
 **About the translation：**  
